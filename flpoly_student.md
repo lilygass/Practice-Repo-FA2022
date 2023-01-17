@@ -1,27 +1,29 @@
-## Student Name (or name you would preferred to be called)
+## Lily Gass
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- COP2073
 
-- Course 2
+- COP2271
 
-- Course 3
+- CGS1100
 
-- Course 4
+- ECO2013
+
+- FIN2001
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video games
 
-- Thing 2
+- Working out
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Music
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
